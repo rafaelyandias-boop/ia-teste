@@ -1,7 +1,5 @@
 node_modules/
 .env
-.replit
-.config/
-.upm/
 *.log
 .DS_Store
+config.json
